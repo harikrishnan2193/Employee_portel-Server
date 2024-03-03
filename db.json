@@ -1,0 +1,29 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@gmail.com",
+      "password": "Admin123",
+      "status": 1
+    },
+    {
+      "id": "3",
+      "name": "watson",
+      "email": "watson@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "2",
+      "name": "Ajuus",
+      "email": "Ajuus@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "5",
+      "name": "balu",
+      "email": "balu@gmail.com",
+      "status": "0"
+    }
+  ]
+}
